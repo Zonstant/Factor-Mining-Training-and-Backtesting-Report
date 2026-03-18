@@ -88,7 +88,7 @@
 
 <p align="center">
   <img src="./figs/fourdays_sharp.png" width="49%" />
-  <img src="./figs/sign1.png" width="49%" />
+  <img src="./figs/sign.png" width="49%" />
 </p>
 
 
