@@ -1,11 +1,10 @@
 # 部分代码如/code文件夹所示
-
-## train_DL Transformer模型，输入因子或股票截面信息，输出股票截面
-## gp_set.py 遗传编程函数和终端节点设置
-## gp_evo.py 遗传编程算法
-## gp_llm.py LLM辅助模块（调用Deepseek API）
-## train_stock_factor.py 因子挖掘模块
-## train.ipynb 回测框架，包含多元线性回归和Transformer模型用于选股，多元线性回归使用等权买入策略，Transformer模型使用输出作为资产配置权重
+- train_DL Transformer模型，输入因子或股票截面信息，输出股票截面
+- gp_set.py 遗传编程函数和终端节点设置
+- gp_evo.py 遗传编程算法
+- gp_llm.py LLM辅助模块（调用Deepseek API）
+- train_stock_factor.py 因子挖掘模块
+- train.ipynb 回测框架，包含多元线性回归和Transformer模型用于选股，多元线性回归使用等权买入策略，Transformer模型使用输出作为资产配置权重
 
 （仅公开了部分代码用以展示项目，非最新代码）
 
